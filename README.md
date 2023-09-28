@@ -6,8 +6,7 @@ Graph Search for Finding Routes Between Cities
 
 **Objective**
 
-The objective of this assignment is to implement a search algorithm that can find a route between any two cities. You will create a program called find_route that takes command-line arguments to perform this task.
-
+The objective of this assignment is to implement a search algorithm that can find a route between any two cities.
 **Programming Language:** Python 3.10.5
 
 ### File Naming Convention
