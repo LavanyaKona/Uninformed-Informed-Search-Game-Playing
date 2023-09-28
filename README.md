@@ -2,7 +2,11 @@
 The program will compute a route between the origin city and the destination city, and will print out both the length of the route and the list of all cities that lie on that route. It should also display the number of nodes expanded and nodes generated.
 
 
-## Route planning: Uninformed & Informed Search
+Graph Search for Finding Routes Between Cities
+
+**Objective**
+
+The objective of this assignment is to implement a search algorithm that can find a route between any two cities. You will create a program called find_route that takes command-line arguments to perform this task.
 
 **Programming Language:** Python 3.10.5
 
